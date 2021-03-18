@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/fcc-bar-chart/static/css/main.79fa9bc9.chunk.css",
-    "main.js": "/fcc-bar-chart/static/js/main.982e8eab.chunk.js",
-    "main.js.map": "/fcc-bar-chart/static/js/main.982e8eab.chunk.js.map",
-    "runtime-main.js": "/fcc-bar-chart/static/js/runtime-main.19142192.js",
-    "runtime-main.js.map": "/fcc-bar-chart/static/js/runtime-main.19142192.js.map",
-    "static/js/2.1e54dc5a.chunk.js": "/fcc-bar-chart/static/js/2.1e54dc5a.chunk.js",
-    "static/js/2.1e54dc5a.chunk.js.map": "/fcc-bar-chart/static/js/2.1e54dc5a.chunk.js.map",
-    "index.html": "/fcc-bar-chart/index.html",
-    "static/css/main.79fa9bc9.chunk.css.map": "/fcc-bar-chart/static/css/main.79fa9bc9.chunk.css.map",
-    "static/js/2.1e54dc5a.chunk.js.LICENSE.txt": "/fcc-bar-chart/static/js/2.1e54dc5a.chunk.js.LICENSE.txt"
+    "main.css": "/fcc-Bar-Chart/static/css/main.79fa9bc9.chunk.css",
+    "main.js": "/fcc-Bar-Chart/static/js/main.982e8eab.chunk.js",
+    "main.js.map": "/fcc-Bar-Chart/static/js/main.982e8eab.chunk.js.map",
+    "runtime-main.js": "/fcc-Bar-Chart/static/js/runtime-main.518a1ecd.js",
+    "runtime-main.js.map": "/fcc-Bar-Chart/static/js/runtime-main.518a1ecd.js.map",
+    "static/js/2.1e54dc5a.chunk.js": "/fcc-Bar-Chart/static/js/2.1e54dc5a.chunk.js",
+    "static/js/2.1e54dc5a.chunk.js.map": "/fcc-Bar-Chart/static/js/2.1e54dc5a.chunk.js.map",
+    "index.html": "/fcc-Bar-Chart/index.html",
+    "static/css/main.79fa9bc9.chunk.css.map": "/fcc-Bar-Chart/static/css/main.79fa9bc9.chunk.css.map",
+    "static/js/2.1e54dc5a.chunk.js.LICENSE.txt": "/fcc-Bar-Chart/static/js/2.1e54dc5a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.19142192.js",
+    "static/js/runtime-main.518a1ecd.js",
     "static/js/2.1e54dc5a.chunk.js",
     "static/css/main.79fa9bc9.chunk.css",
     "static/js/main.982e8eab.chunk.js"
