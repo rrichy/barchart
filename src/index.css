@@ -1,3 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+#root {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Lato', sans-serif;
+}
+
+#svg-wrapper {
+    box-shadow: 5px 2px 20px black;
+}
+
 .bar:hover {
-    fill: aquamarine;
+    fill: cyan;
+}
+
+h1 {
+    margin-bottom: 0;
 }
